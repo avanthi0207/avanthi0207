@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Avanthi
 
- a passionate Front-End Developer in the making!
+ A passionate Front-End Developer in the making!
 💻 I love building clean, responsive web applications using HTML, CSS, JavaScript, and React.js.
 🚀 Currently exploring APIs, dynamic UI design, and real-world project building.
 📚 Check out my recent project: Book Hub – Book Search App
